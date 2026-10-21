@@ -1,0 +1,6 @@
+data/
+submissions/
+*.csv
+__pycache__/
+*.log
+*.json
